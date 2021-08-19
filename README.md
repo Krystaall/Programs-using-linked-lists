@@ -7,3 +7,4 @@ Questions solved all use Linked list as base data structure
 4. Sort a singly linked list
 5. Queue implementation using linked list
 6. Stack implementation using linked list
+7. Student database (assign2)
